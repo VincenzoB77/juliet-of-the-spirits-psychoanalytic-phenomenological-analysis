@@ -26,12 +26,16 @@ Introduction
 
 Federico Fellini’s Juliet of the Spirits (Giulietta degli spiriti, 1965) occupies a singular place in the history of modern cinema. As Fellini’s first feature-length film in color, it marks both a technical breakthrough and an artistic metamorphosis: a departure from the social realism of his earlier works toward a cinema of visions, fantasies, memories, and interior landscapes. At the center of this transformation stands Giulietta, a middle-aged woman whose suspicion of her husband’s
 infidelity initiates not merely a domestic crisis but a profound descent into the depths of her own psyche.
+
 Unlike traditional psychological dramas, Juliet of the Spirits refuses the stability of realism. The film dissolves the boundaries between external events and internal experiences, creating a
 cinematic space in which psychological states become visible. Giulietta’s encounters with ghosts, childhood memories, eccentric figures, and dreamlike apparitions suggest the operation of unconscious mechanisms shaping her perception of the world.
+
 At the same time, Fellini constructs a phenomenological universe. Reality is not presented as an objective, neutral field but as a lived world structured through consciousness, emotion,
 memory, and embodiment. The viewer does not observe Giulietta from the outside; rather, the
 viewer inhabits her experiential horizon. The film becomes a meditation on perception itself— on how the world appears when filtered through desire, fear, guilt, and imagination.
+
 This article offers a combined psychoanalytic and phenomenological interpretation of Juliet of the Spirits. First, it examines the film as a representation of unconscious conflict, repression, symbolic figures, and psychic transformation. Second, it explores how Fellini constructs a phenomenological world in which subjective perception becomes the primary reality.
+
 Ultimately, the essay argues that Giulietta’s journey unites psychoanalytic revelation with phenomenological awakening, presenting self-discovery as a process of confronting hidden desires and reconfiguring one’s relationship with the world.
 
 2.  Federico Fellini: Biography and Intellectual Context
@@ -41,10 +45,13 @@ neorealism and the reconstruction of national identity. Fellini’s early collab
 attentive to social reality. Yet even in his early works — I Vitelloni (1953), La Strada (1954),
 Nights of Cabiria (1957) — autobiographical elements, symbolic motifs, and visionary
 tendencies began to surface, foreshadowing the stylistic transformation that would define his mature period.
+
 This transformation becomes unmistakable with La Dolce Vita (1960) and, more decisively, 8½ (1963). In these films, Fellini abandons the constraints of realism and turns toward memory, fantasy, dream imagery, and subjective experience. Juliet of the Spirits (1965), his first feature- length film in color, marks the culmination of this metamorphosis. The transition from black- and-white to color parallels a deeper shift: from a cinema of external reality to a cinema of
 interior vision.
+
 During the early 1960s, Fellini developed a profound interest in Jungian psychology. He began recording his dreams, studying archetypes, and exploring symbolic imagery. As biographer Tullio Kezich notes, Fellini regarded dreams as “privileged manifestations of hidden psychic realities.” This fascination was not isolated; it emerged within a broader European climate marked by the decline of traditional religious certainties, the rise of psychoanalysis, and the influence of
 existential philosophy. Juliet of the Spirits is a product of this intellectual milieu, where psychological depth and spiritual inquiry converge.
+
 The casting of Giulietta Masina — Fellini’s wife and long-time collaborator — adds an additional layer of complexity. Masina’s expressive sensitivity provides the emotional and
 phenomenological center of the film. Her face becomes the surface upon which Fellini inscribes the interior drama of feminine subjectivity.
 
@@ -68,32 +75,38 @@ The interpretive richness of Juliet of the Spirits emerges most clearly when psy
 
 Freud’s theory of repression provides a foundational lens through which Giulietta’s crisis can be understood. Throughout her life, Giulietta has internalized a moral system built on obedience, modesty, and self-sacrifice. Her marriage reinforces these structures: Giorgio’s emotional
 distance and probable infidelity destabilize the fragile equilibrium of her identity.
+
 Freud famously wrote that “dreams are the royal road to the unconscious.” In Fellini’s film, dreams, visions, and symbolic apparitions function precisely in this way. They reveal desires Giulietta cannot articulate, fears she cannot confront, and conflicts she cannot resolve. The film’s fluid transitions between reality and fantasy mirror the Freudian logic of dreamwork, where latent content returns in disguised form.
+
 The contrast between Giulietta and her neighbor Susy exemplifies the Freudian tension between desire and prohibition. Susy embodies erotic freedom, sensuality, and resistance to
 moral constraint — qualities Giulietta has repressed. Her simultaneous attraction to and fear of Susy reflects the ambivalence characteristic of repressed desire: what is forbidden becomes both threatening and alluring.
 
 3.2  Jung: Individuation and the Symbolic Figures of the Psyche
 
 While Freud illuminates the mechanisms of repression, Jung provides a broader symbolic framework for understanding Giulietta’s encounters with spirits, memories, and archetypal
-
 figures. Jung’s concept of individuation — the integration of unconscious elements into consciousness — resonates deeply with Giulietta’s journey.
+
 Jung writes that individuation “implies becoming one’s own self.” Giulietta’s visions are not pathological hallucinations; they are autonomous psychic forces seeking recognition. The spirits represent fragments of her personality: fear, desire, creativity, vulnerability, guilt, and intuition. They form a symbolic community that exists alongside her everyday life.
+
 Susy, in Jungian terms, functions as Giulietta’s Shadow — the rejected aspect of personality that remains unconscious. Jung describes the Shadow as “a moral problem that challenges the whole ego-personality.” Giulietta’s fascination with Susy signals the beginning of integration: what she fears becomes a source of self-knowledge.
+
 The film’s symbolic richness — its colors, costumes, dreamlike settings — reflects Jung’s belief that the unconscious communicates through images. Fellini’s cinema becomes a visual analogue of Jungian psychology.
 
 3.3  Husserl: Intentionality and the Constitution of Experience
 
 Phenomenology begins with Husserl’s insight that consciousness is always consciousness of something. Experience is not passive reception but active meaning-constitution. Fellini’s film embodies this principle by refusing to distinguish sharply between objective reality and subjective perception.
+
 For Giulietta, memories, fantasies, and visions possess experiential reality. They shape her emotions, decisions, and sense of self. Husserl’s concept of intentionality helps explain why
 Fellini presents these experiences without hierarchical separation: they belong to Giulietta’s lived world.
+
 The film thus becomes a phenomenological exploration of how reality appears when filtered through guilt, desire, fear, and imagination. Giulietta’s crisis reveals the structures of
 consciousness that ordinarily remain invisible.
 
 3.4  Merleau-Ponty: Embodiment, Perception, and the Lived Body
 
 Merleau-Ponty deepens Husserl’s insights by emphasizing embodiment. “The body is our
-general medium for having a world,” he writes. Giulietta’s experiences illustrate this principle vividly. Her emotional states are inseparable from bodily sensations, gestures, and spatial
-relations.
+general medium for having a world,” he writes. Giulietta’s experiences illustrate this principle vividly. Her emotional states are inseparable from bodily sensations, gestures, and spatial relations.
+
 Color plays a central role in this embodied phenomenology. Fellini’s chromatic palette — intense reds, luminous whites, shadowy blues — does not merely decorate the film; it organizes
 
 Giulietta’s affective world. Viewers do not simply understand her emotions; they feel them through the sensory structure of the film.
@@ -151,11 +164,14 @@ Thus, Giulietta’s adult inability to assert herself is not merely a marital is
 
 Among the symbolic figures Giulietta encounters, Susy occupies a central position. Sensual, independent, and unapologetically erotic, Susy embodies everything Giulietta has been
 forbidden to become. She represents freedom from moral constraint, liberation from guilt, and the possibility of desire without punishment.
+
 From a Jungian perspective, Susy functions as Giulietta’s Shadow — the rejected aspect of personality that remains unconscious. Jung describes the Shadow as “a moral problem that
 challenges the whole ego-personality.” Giulietta’s fascination with Susy reflects the beginning of integration: what she fears becomes a source of self-knowledge.
+
 Susy does not merely tempt Giulietta; she reveals alternative modes of being. Her presence destabilizes Giulietta’s inherited identity and opens the possibility of transformation.
 
 4.4  Spirits, Dreams, and Autonomous Psychic Forces
+
 The “spirits” of the film’s title should not be understood literally. They are symbolic manifestations of unconscious energies. In Jungian psychology, dreams often present
 unconscious aspects of the self as autonomous figures. Fellini translates this mechanism into cinematic form.
 The spirits represent:
@@ -186,6 +202,7 @@ imagination shape reality itself. Giulietta’s crisis becomes a phenomenologica
 5.1  The House as Phenomenological Body
 
 One of the most powerful insights from the first document is the idea that Giulietta’s house functions as a phenomenological body. It is not simply a physical structure; it is an extension of her interiority. Rooms, corridors, staircases, and hidden spaces correspond to emotional states, memories, and unconscious tensions.
+
 The house becomes:
 
 ·         a space of guilt (the childhood room),
@@ -235,9 +252,12 @@ The visions, spirits, and memories that emerge during this period are not halluc
 
 One of Fellini’s most radical achievements is his refusal to privilege objective reality over
 imagination. Traditional realist cinema distinguishes clearly between real events and fantasies.
+
 Juliet of the Spirits deliberately undermines this distinction.
+
 From a phenomenological standpoint, this strategy reflects the complexity of human
 experience. Dreams, memories, fantasies, and perceptions all contribute to the constitution of reality as it is lived.
+
 For Giulietta:
 
 ·         a memory is as real as a present event,
@@ -278,27 +298,37 @@ For this reason, Juliet of the Spirits may be interpreted as the most complete c
 6.  Feminine Subjectivity and Existential Freedom
 
 The psychoanalytic and phenomenological dimensions of Juliet of the Spirits converge most powerfully in Fellini’s exploration of feminine subjectivity. Giulietta begins the film as a woman whose identity has been shaped almost entirely by external expectations: marital duty, religious morality, childhood conditioning, and social norms. Her self-understanding is mediated through the gaze of others — especially Giorgio, whose emotional absence paradoxically reinforces her dependence.
+
 Fellini’s narrative does not present Giulietta as a passive victim. Instead, he constructs a
 cinematic environment in which her interior life becomes the primary reality. Giulietta is not an object of representation; she is the subject of perception. The film privileges her consciousness, her sensory world, her emotional oscillations, and her imaginative horizon.
-This shift anticipates themes later developed in feminist film theory. Laura Mulvey’s critique of the “male gaze” identifies how classical cinema often positions women as objects of visual
-pleasure. Fellini, despite his own complex relationship with femininity, creates in Juliet of the Spirits an unusually rich portrayal of female interiority. Giulietta’s liberation does not depend on romantic fulfillment or external validation. It emerges from a transformation in her relation to herself.
-Her journey resembles an existential awakening. Like the existential subject described by Sartre and Merleau-Ponty, Giulietta must assume responsibility for defining her own existence. She
-must confront the inherited structures — guilt, repression, obedience — that have shaped her identity and choose a new mode of being.
+
+This shift anticipates themes later developed in feminist film theory. Laura Mulvey’s critique of the “male gaze” identifies how classical cinema often positions women as objects of visual pleasure.
+
+Fellini, despite his own complex relationship with femininity, creates in Juliet of the Spirits an unusually rich portrayal of female interiority. Giulietta’s liberation does not depend on romantic fulfillment or external validation. It emerges from a transformation in her relation to herself.
+Her journey resembles an existential awakening. Like the existential subject described by Sartre and Merleau-Ponty, Giulietta must assume responsibility for defining her own existence. 
+
+She must confront the inherited structures — guilt, repression, obedience — that have shaped her identity and choose a new mode of being.
+
 The film’s conclusion is deliberately open. Giulietta does not triumph in a conventional sense; she does not resolve her marriage, nor does she adopt a predetermined model of liberation.
+
 Instead, she steps into a new relationship with her own experience. Her freedom is not a destination but a process — an ongoing reconfiguration of consciousness.
 
 7.  Conclusion
 
 Juliet of the Spirits stands as one of Federico Fellini’s most profound explorations of interior life. Through its fusion of dream imagery, symbolic figures, chromatic intensity, and psychological complexity, the film constructs a cinematic language capable of expressing the hidden
 dimensions of human experience. Fellini does not merely depict Giulietta’s crisis; he visualizes the very processes through which consciousness organizes, distorts, and transforms reality.
+
 From a psychoanalytic perspective, Giulietta’s journey reveals the intricate interplay between repression, desire, guilt, childhood conditioning, and unconscious forces. Her visions, apparitions, and symbolic encounters illustrate both Freudian mechanisms of return and
- 
 Jungian processes of individuation. The spirits that populate her world are not supernatural entities but autonomous psychic contents seeking integration. Giulietta’s liberation emerges through her willingness to confront these hidden dimensions of herself.
+
 From a phenomenological perspective, the film dissolves the boundary between objective
 reality and subjective experience. Fellini constructs a world in which perception, embodiment, memory, and imagination shape the very texture of existence. Giulietta’s crisis becomes a phenomenological rupture — a moment when the familiar world collapses and the structures of lived experience become visible. Her awakening consists in reclaiming her own perceptual and
 emotional agency.
+
 Ultimately, Giulietta’s transformation is neither a simple victory nor a definitive resolution.
+
 Fellini refuses the comfort of closure. Instead, he presents self-discovery as an ongoing process: a continuous reconfiguration of consciousness, identity, and meaning. Giulietta’s final gesture — stepping into a new relation with herself — embodies a form of existential freedom grounded not in external change but in interior awakening.
+
 More than sixty years after its release, Juliet of the Spirits remains a powerful meditation on identity, perception, femininity, and psychological transformation. It demonstrates cinema’s
 unique capacity to visualize the invisible processes of the mind, offering a sensory and symbolic journey into the labyrinth of the self.
  
@@ -394,9 +424,12 @@ Copyright Notice
 
 © 2026 Dr. Vincenzo Bumbalo, All Rights Reserved.
 This document, including its text, analysis, structure, research design, interpretations, critical commentary, citations, original intellectual contributions, and all associated materials, constitutes the exclusive intellectual property of Dr. Vincenzo Bumbalo.
+
 No part of this work may be reproduced, copied, scanned, digitized, distributed, transmitted, translated, adapted, stored in a retrieval system, incorporated into databases, used for artificial intelligence training, machine learning datasets, academic repositories, commercial
 publications, websites, social media platforms, or any other medium, electronic or physical, without the prior express written permission of the copyright holder.
+
 Unauthorized use, reproduction, dissemination, quotation beyond applicable legal exceptions, modification, publication, public display, or derivative production is strictly prohibited and may constitute a violation of international copyright laws, intellectual property regulations, and applicable civil and criminal statutes.
+
 This work is protected under the Berne Convention for the Protection of Literary and Artistic Works, the WIPO Copyright Treaty, and all applicable national and international copyright
 legislation.
 
@@ -421,4 +454,5 @@ The author expressly reserves all rights, including but not limited to:
 ·         Derivative works rights
 
 Any unauthorized access, duplication, dissemination, or use of this material shall be considered an infringement of the author's exclusive rights and may result in legal action.
+
 This article offers an integrated psychoanalytic and phenomenological interpretation of Federico Fellini’s Juliet of the Spirits (1965). Drawing on Freud, Jung, Husserl, Merleau‑Ponty, and Bumbalo’s Analytical Phenomenological Psychology (APP), the study examines Giulietta’s crisis as a collapse of adult ordinariness and a transformative rupture in the structure of lived experience. The film is interpreted as a cinematic visualization of unconscious dynamics, symbolic figures, embodied perception, and the phenomenological constitution of reality. Through color, space, dream imagery, and Nino Rota’s score, Fellini constructs a world where interiority becomes the primary reality. Giulietta’s liberation emerges not from external resolution but from a new relation to herself, revealing Fellini’s cinema as a meditation on identity, perception, temporality, and feminine subjectivity.
